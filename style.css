@@ -3,3 +3,32 @@
     padding: 10px;
     margin: 10px auto;
 }
+
+.colors {
+    width: 100%;
+}
+
+.color-pallet {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.blue {
+    background-color: #2d5dcc;
+    color: #ffff;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
