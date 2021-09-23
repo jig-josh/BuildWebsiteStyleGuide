@@ -32,3 +32,38 @@
 .beige {
     background-color: #efd9ca;
 }
+
+.fonts-name {
+    display: inline-block;
+    /*margin-right: 20px;*/
+    width: 45%;
+}
+
+.fonts-heading {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.source-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
